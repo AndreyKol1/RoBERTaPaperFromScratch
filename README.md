@@ -42,13 +42,13 @@ This project implements a Transformer-based language model from scratch, inspire
 
 ## 🚀 Inference
 
-Base Model: https://huggingface.co/spaces/DornierDo17/RoBERTaModelPreTrained
-Fine-Tuned Model: https://huggingface.co/spaces/DornierDo17/MiniRoBERTaFineTuned
+- Base Model: https://huggingface.co/spaces/DornierDo17/RoBERTaModelPreTrained
+- Fine-Tuned Model: https://huggingface.co/spaces/DornierDo17/MiniRoBERTaFineTuned
 
 ## 🤗 Model on Hugging Face
 
-Base Model: https://huggingface.co/DornierDo17/RoBERTa_17.7M
-Fine-Tuned Model: https://huggingface.co/DornierDo17/MiniRoBERTa_SST2
+- Base Model: https://huggingface.co/DornierDo17/RoBERTa_17.7M
+- Fine-Tuned Model: https://huggingface.co/DornierDo17/MiniRoBERTa_SST2
 
 ## Changes made to transition from BERT model to RoBERTa
 
